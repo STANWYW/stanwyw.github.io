@@ -37,7 +37,7 @@ See the [official GitHub Pages instructions](https://docs.github.com/en/pages/ge
 
 - `index.html`: biography, news, publications, education, honors, and IELTS score.
 - `stylesheet.css`: layout and mobile styles.
-- `assets/images/yuanwei-wu.jpg`: public Google Scholar portrait; replace it with a higher-resolution photo if desired.
+- `assets/images/yuanwei-wu.jpg`: high-resolution portrait (1280 × 1280) provided by the site owner.
 - `assets/images/echo.svg`: original Figure 1 from the ECHO paper.
 - `assets/images/sasp.png`: original Figure 2 from the SASP paper.
 - `assets/bib/`: publication citations in BibTeX format.
@@ -52,7 +52,8 @@ Verified on November 2, 2026.
 
 - Education, National Scholarship, IELTS score, and research interests: provided by the site owner.
 - Outstanding Undergraduate Student award, year, and selection rate: the certificate provided by the site owner. The original certificate and its student identifier are excluded from this website and repository.
-- [Google Scholar](https://scholar.google.com/citations?user=Aqg_jv8AAAAJ&hl=en): public name, affiliation, portrait, and publication list.
+- Portrait: high-resolution photo provided by the site owner.
+- [Google Scholar](https://scholar.google.com/citations?user=Aqg_jv8AAAAJ&hl=en): public name, affiliation, and publication list.
 - [ECHO · ACL Anthology](https://aclanthology.org/2026.emnlp-main.892/): title, author order, EMNLP 2026 Main Conference publication, and BibTeX.
 - [ECHO · official code](https://github.com/STANWYW/echo): acceptance status and arXiv link. The news entry uses the verified year without guessing an acceptance month.
 - [HarmSig · Hugging Face](https://huggingface.co/ztaenn/harmsig): ECHO's public response harmfulness scorer and model checkpoint.
