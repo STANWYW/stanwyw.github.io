@@ -44,13 +44,14 @@ See the [official GitHub Pages instructions](https://docs.github.com/en/pages/ge
 
 Click either paper thumbnail to view the original figure at full size. The figures are downloaded directly from the papers' arXiv HTML versions and are reproduced without modification. ECHO's Hugging Face link points to its HarmSig model checkpoint.
 
-The expected master's graduation year is marked accordingly. IELTS is listed under Honors & Qualifications. No unprovided advisor, CV, or contact information has been added.
+The expected master's graduation year is marked accordingly. IELTS is listed under Honors & Qualifications. The biography includes the advisors and email address supplied by the site owner.
 
 ## Sources and credits
 
 Verified on November 2, 2026.
 
 - Education, National Scholarship, IELTS score, and research interests: provided by the site owner.
+- Advising relationships and email address: provided by the site owner. Advisor links: [Yunlong Mao](https://ylmao.github.io/) and [Sheng Zhong](https://www.shengzhong.info/). The biography's advisor phrasing follows the requested [Andy Zou homepage](https://andyzoujm.github.io/) reference.
 - Outstanding Undergraduate Student award, year, and selection rate: the certificate provided by the site owner. The original certificate and its student identifier are excluded from this website and repository.
 - Portrait: high-resolution photo provided by the site owner.
 - [Google Scholar](https://scholar.google.com/citations?user=Aqg_jv8AAAAJ&hl=en): public name, affiliation, and publication list.
@@ -60,5 +61,5 @@ Verified on November 2, 2026.
 - [ECHO · Figure 1](https://arxiv.org/html/2610.23030v1/figure1_20260525112005.svg): comparison between compliance proxy-based and response-level harmfulness score-based jailbreak. From [ECHO on arXiv](https://arxiv.org/html/2610.23030v1), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), credited to Yuanwei Wu and coauthors; reproduced unchanged.
 - [SASP · arXiv](https://arxiv.org/abs/2311.09127): title, author order, and original publication year.
 - [SASP · Figure 2](https://arxiv.org/html/2311.09127v2/Self-Adv-GPT4V.png): workflow of the self-adversarial method with human collaboration. From [the SASP paper](https://arxiv.org/html/2311.09127v2), credited to Yuanwei Wu and coauthors; reproduced unchanged for the author's academic homepage.
-- Design: [Jon Barron](https://jonbarron.info/) and his [public template source](https://github.com/jonbarron/jonbarron.github.io). The page retains a design credit.
+- Design: [Jon Barron](https://jonbarron.info/) and his [public template source](https://github.com/jonbarron/jonbarron.github.io).
 - Lato font: SIL Open Font License; see `assets/fonts/OFL.txt`. Fonts, portrait, and paper figures are stored locally, so displaying the page does not require third-party requests.
