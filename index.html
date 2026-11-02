@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Yuanwei Wu, master's student at Nanjing University. Research in large language model safety, jailbreak attacks, and trustworthy AI.">
+  <meta name="theme-color" content="#ffffff">
+  <title>Yuanwei Wu</title>
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+  <link rel="preload" href="assets/fonts/lato-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+  <a class="skip-link" href="#research">Skip to research</a>
+  <main>
+    <header class="profile">
+      <div class="biography">
+        <h1>Yuanwei Wu</h1>
+        <p>I am a master's student at the <a href="https://software.nju.edu.cn/">Software Institute</a>, <a href="https://www.nju.edu.cn/en/">Nanjing University</a> (2025–2027, expected).</p>
+        <p>Previously, I received my bachelor's degree from the <a href="https://cse.hust.edu.cn/">School of Cyber Science and Engineering</a>, <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a> (2021–2025).</p>
+        <p>My research interest is <strong>large language model (LLM) safety</strong>, with a focus on understanding jailbreak vulnerabilities and evaluating model safety.</p>
+        <nav class="profile-links" aria-label="Academic profiles">
+          <a href="https://scholar.google.com/citations?user=Aqg_jv8AAAAJ&amp;hl=en">Google Scholar</a>
+          <span aria-hidden="true">/</span>
+          <a href="https://github.com/STANWYW">GitHub</a>
+        </nav>
+      </div>
+      <a class="portrait-link" href="assets/images/yuanwei-wu.jpg" aria-label="View full portrait of Yuanwei Wu">
+        <img class="portrait" src="assets/images/yuanwei-wu.jpg" alt="Yuanwei Wu standing by a lake" width="256" height="256">
+      </a>
+    </header>
+
+    <section class="news" aria-labelledby="news-title">
+      <h2 id="news-title">News</h2>
+      <ul class="news-list">
+        <li><time datetime="2026">2026</time><span>Our paper <a href="https://aclanthology.org/2026.emnlp-main.892/">ECHO</a> has been accepted to <strong>EMNLP 2026</strong> (Main Conference)!</span></li>
+      </ul>
+    </section>
+
+    <section id="research" aria-labelledby="research-title">
+      <h2 id="research-title">Research</h2>
+      <p class="section-intro">I study the safety of large language models and multimodal large language models. My work explores jailbreak attacks and response-level harmfulness evaluation.</p>
+
+      <article class="paper paper-highlight" aria-labelledby="echo-title">
+        <a class="paper-figure" href="assets/images/echo.svg" aria-label="View ECHO Figure 1 at full size">
+          <img src="assets/images/echo.svg" alt="Figure 1 from ECHO: compliance proxy-based versus response-level harmfulness score-based jailbreak" width="855" height="526">
+        </a>
+        <div class="paper-details">
+          <h3 id="echo-title"><a href="https://aclanthology.org/2026.emnlp-main.892/">ECHO: Replacing the Compliance Proxy with Response Harmfulness in Optimization-Based Jailbreak Attack</a></h3>
+          <p class="authors"><strong>Yuanwei Wu</strong>, Lingdong Huang, Yunlong Mao, Kanye Ye Wang, Jingyu Hua, Sheng Zhong</p>
+          <p class="venue"><em>EMNLP</em>, 2026 <span class="venue-note">(Main Conference)</span></p>
+          <p class="paper-links"><a href="https://aclanthology.org/2026.emnlp-main.892.pdf">paper</a> <span>/</span> <a href="https://arxiv.org/abs/2610.23030">arXiv</a> <span>/</span> <a href="https://github.com/STANWYW/echo">code</a> <span>/</span> <a href="https://huggingface.co/ztaenn/harmsig">Hugging Face</a> <span>/</span> <a href="assets/bib/echo.bib">bibtex</a></p>
+          <p class="paper-summary">A black-box jailbreak framework that guides prompt search with harmfulness scores of actual model responses, replacing token-level compliance proxies.</p>
+        </div>
+      </article>
+
+      <article class="paper" aria-labelledby="sasp-title">
+        <a class="paper-figure" href="assets/images/sasp.png" aria-label="View SASP Figure 2 at full size">
+          <img src="assets/images/sasp.png" alt="Figure 2 from SASP: the workflow of the self-adversarial method with human collaboration" width="1600" height="480" loading="lazy">
+        </a>
+        <div class="paper-details">
+          <h3 id="sasp-title"><a href="https://arxiv.org/abs/2311.09127">Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts</a></h3>
+          <p class="authors"><strong>Yuanwei Wu</strong>, Xiang Li, Yixin Liu, Pan Zhou, Lichao Sun</p>
+          <p class="venue"><em>arXiv preprint</em>, 2023</p>
+          <p class="paper-links"><a href="https://arxiv.org/pdf/2311.09127">paper</a> <span>/</span> <a href="https://arxiv.org/abs/2311.09127">arXiv</a> <span>/</span> <a href="assets/bib/sasp.bib">bibtex</a></p>
+          <p class="paper-summary">An investigation of system prompt leakage in GPT-4V and self-adversarial attacks, highlighting the role of system prompts in multimodal model safety.</p>
+        </div>
+      </article>
+    </section>
+
+    <section class="education" aria-labelledby="education-title">
+      <h2 id="education-title">Education</h2>
+      <div class="education-row">
+        <p class="education-date">2025–2027 <span>(expected)</span></p>
+        <div><h3><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h3><p>Master's student, Software Institute</p></div>
+      </div>
+      <div class="education-row">
+        <p class="education-date">2021–2025</p>
+        <div><h3><a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a></h3><p>Bachelor's degree, School of Cyber Science and Engineering</p></div>
+      </div>
+    </section>
+
+    <section class="honors" aria-labelledby="honors-title">
+      <h2 id="honors-title">Honors &amp; Qualifications</h2>
+      <ul class="honors-list">
+        <li><strong>National Scholarship</strong><span class="honor-date">2021–2022</span></li>
+        <li><strong>Outstanding Undergraduate Student</strong><span class="honor-date">2022</span><p>Huazhong University of Science and Technology · Awarded to approximately the top 1% of second- and third-year undergraduates.</p></li>
+        <li><strong>IELTS</strong><span class="qualification">Overall band score: 7.5</span></li>
+      </ul>
+    </section>
+
+    <footer>
+      <p>Design inspired by <a href="https://jonbarron.info/">Jon Barron's website</a>.<br>Last updated: November 2026.</p>
+    </footer>
+  </main>
+</body>
+</html>
