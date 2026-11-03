@@ -35,7 +35,7 @@ See the [official GitHub Pages instructions](https://docs.github.com/en/pages/ge
 
 ## Edit the content
 
-- `index.html`: biography, news, publications, education, honors, and IELTS score.
+- `index.html`: biography, news, publications, education, and honors.
 - `stylesheet.css`: layout and mobile styles.
 - `assets/images/yuanwei-wu.jpg`: high-resolution portrait (1280 × 1280) provided by the site owner.
 - `assets/images/echo.svg`: original Figure 1 from the ECHO paper.
@@ -44,13 +44,13 @@ See the [official GitHub Pages instructions](https://docs.github.com/en/pages/ge
 
 Click either paper thumbnail to view the original figure at full size. The figures are downloaded directly from the papers' arXiv HTML versions and are reproduced without modification. ECHO's Hugging Face link points to its HarmSig model checkpoint.
 
-The expected master's graduation year is marked accordingly. IELTS is listed under Honors & Qualifications. The biography includes the advisors and email address supplied by the site owner.
+The expected master's graduation year is marked accordingly. The biography includes the advisors and email address supplied by the site owner.
 
 ## Sources and credits
 
 Verified on November 2, 2026.
 
-- Education, National Scholarship, IELTS score, and research interests: provided by the site owner.
+- Education, National Scholarship, and research interests: provided by the site owner.
 - Advising relationships and email address: provided by the site owner. Advisor links: [Yunlong Mao](https://ylmao.github.io/) and [Sheng Zhong](https://www.shengzhong.info/). The biography's advisor phrasing follows the requested [Andy Zou homepage](https://andyzoujm.github.io/) reference.
 - Outstanding Undergraduate Student award, year, and selection rate: the certificate provided by the site owner. The original certificate and its student identifier are excluded from this website and repository.
 - Portrait: high-resolution photo provided by the site owner.

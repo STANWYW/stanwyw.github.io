@@ -67,7 +67,6 @@ section { padding: 22px 20px 10px; }
 .honors-list li { position: relative; padding-right: 86px; margin-bottom: 13px; }
 .honor-date { position: absolute; top: 0; right: 0; color: #666; font-variant-numeric: tabular-nums; }
 .honors-list li p { margin: 3px 0 0; color: #606060; font-size: 13px; }
-.qualification { margin-left: 12px; }
 .skip-link { position: absolute; top: -60px; left: 16px; padding: 10px 15px; background: #fff; z-index: 1; }
 .skip-link:focus { top: 10px; }
 
